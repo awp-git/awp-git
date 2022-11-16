@@ -25,7 +25,7 @@
      <li>CSS 10%</li>
      <li>C++ 0%</li>
      <li>c# 0%</li>
-     <li>C 0%<li>
+     <li>C 0%</li>
     </ul>
    </body> 
   </div>
