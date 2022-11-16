@@ -24,6 +24,8 @@
      <li>Python 80%</li>
      <li>HTML 20%</li>
      <li>Java 0%</li>
+     <li>RoR 0%</li> //ruby on rails
+     <li>SQL 0%</li>
      <li>CSS 10%</li>
      <li>C++ 0%</li>
      <li>C# 0%</li>
@@ -33,11 +35,16 @@
   </div>
   <div id="app proficiency">
    <body>
-    <h3>app proficiency</h3>
+    <h3>app / db proficiency</h3>
     <ul>
+     <li>ReactJS 10%</li>
+     <li>Node.js 0%</li>
      <li>Sanity 10%</li>
-     <li>Github 10%>
-     <li>React 10%</li>
+     <li>Github 10%</li>
+     <li>jQuery 0%</li>
+     <li>Flask 0%</li>
+     <li>AJAX 0%</li>
+     <li>NPM 0%</li>
      <li>VSC 30%</li>
      <li>Git 0%</li>
     </ul>
