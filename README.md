@@ -5,34 +5,40 @@
  <html>
   <div id="Want to be / do"> 
    <body>
-    <h3>GOAL</h3>
+    <h3>goal</h3>
     <ul>
-     <li>Fullstack</li>
-     <li>Learn all major languages</li>
+     <li>fullstack</li>
+     <li>learn all major languages</li>
      <li>n/a</li>
      <li>n/a</li>
     </ul>
    </body>
   </div>
- <div id="language proficiency"
-      
-      </div>
+  <div id="language proficiency"
+   <body>
+    <h3>language proficiency</h3>
+    <ul>
+     <li>Javascript 95%</li>
+     <li>Python 80%</li>
+     <li>HTML 20%</li>
+     <li>Java 0%</li>
+     <li>CSS 10%</li>
+     <li>C++ 0%</li>
+     <li>c# 0%</li>
+     <li>C 0%<li>
+    </ul>
+   </body> 
+  </div>
+  <div id="app proficiency">
+   <body>
+    <h3>app proficiency</h3>
+    <ul>
+     <li>Sanity 10%</li>
+     <li>Github 10%>
+     <li>React 10%</li>
+     <li>VSC 30%</li>
+     <li>Git 0%</li>
+    </ul>
+   </body>
+  </div>
  </html>
- 
-//language proficiency
-- Progression counter:
-- JavaScript 95%
-- Python 80%
-- HTML 20%
-- Java 0%
-- CSS 10%
-- C++ 0%
-- C# 0%
-- C 0%
-
- //app proficiency
-- React 10%
-- Sanity 10%
-- VSC 30%
-- Git 0%
-- GitHub 10%
