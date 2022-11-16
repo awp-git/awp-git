@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=4500&pause=1000&width=435&lines=Wasssup+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=4500&pause=1000&width=435&lines=Whaddup whaddup!!!+%E2%98%95)](https://git.io/typing-svg)
 
 <!DOCTYPE html>
  <html>
@@ -24,7 +24,7 @@
      <li>Python 80%</li>
      <li>HTML 20%</li>
      <li>Java 0%</li>
-     <li>RoR 0%</li> //ruby on rails
+     <li>ROR 0%</li> //ruby on rails
      <li>SQL 0%</li>
      <li>CSS 10%</li>
      <li>C++ 0%</li>
@@ -38,14 +38,14 @@
     <h3>app / db proficiency</h3>
     <ul>
      <li>ReactJS 10%</li>
-     <li>Node.js 0%</li>
+     <li>Node.js 10%</li>
      <li>Sanity 10%</li>
      <li>Github 10%</li>
      <li>jQuery 0%</li>
      <li>Flask 0%</li>
      <li>AJAX 0%</li>
      <li>NPM 0%</li>
-     <li>VSC 30%</li>
+     <li>VSC 30%</li> //visual studio code
      <li>Git 0%</li>
     </ul>
    </body>
