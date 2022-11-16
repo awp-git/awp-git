@@ -1,8 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=4500&pause=1000&width=435&lines=Wassup+%E2%98%95)](https://git.io/typing-svg)
 
 <!DOCTYPE html>
  <html>
+  <div id="cool effect">
+   <body><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Izayoi+Monospaced&size=25&duration=3650&pause=1000&color=F71AE3&center=true&width=435&height=35&lines=Wasssssssssssssssssssuppp!!" alt="Typing SVG" /></a></body>
+  </div>
   <div id="Want to be / do"> 
    <body>
     <h3>goal</h3>
