@@ -6,13 +6,14 @@
   <div id="Want to be / do"> 
    <body>
     <h3>goal</h3>
-    <ul>
-     <li>fullstack</li>
+    <ol>
      <li>learn all major languages</li>
      <li>learn all major applications</li>
-     <li>make portfolio site! after above</li>
-     <li>get hired (need dat money honey)</li>
-    </ul>
+     <li>make portfolio site</li>
+     <li>do a couple things</li>
+     <li>be fullstack</li>
+     <li>get hired</li>
+    </ol>
    </body>
   </div>
   <div id="language proficiency"
