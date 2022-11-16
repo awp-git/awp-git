@@ -10,6 +10,7 @@
      <li>fullstack</li>
      <li>learn all major languages</li>
      <li>learn all major applications</li>
+     <li>make portfolio site! after above</li>
      <li>get hired (need dat money honey)</li>
     </ul>
    </body>
