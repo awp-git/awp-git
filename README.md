@@ -10,7 +10,7 @@
      <li>fullstack</li>
      <li>learn all major languages</li>
      <li>learn all major applications</li>
-     <li>n/a</li>
+     <li>get hired (need dat money honey)</li>
     </ul>
    </body>
   </div>
