@@ -9,7 +9,7 @@
     <ul>
      <li>fullstack</li>
      <li>learn all major languages</li>
-     <li>n/a</li>
+     <li>learn all major applications</li>
      <li>n/a</li>
     </ul>
    </body>
