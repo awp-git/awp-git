@@ -15,7 +15,6 @@
      <li>do a couple things</li>
      <li>be fullstack</li>
      <li>get hired</li>
-     <li>once finished unlock achievement</li>
     </ol>
    </body>
   </div>
