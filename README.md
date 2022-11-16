@@ -3,19 +3,20 @@
 
 <!DOCTYPE html>
  <html>
-  <head>
-   <title>GOAL</title>
-  </head>
- <div id="Want to be / do"> 
-  <body>
-   <ul>
-    <li>Fullstack</li>
-    <li>Learn all major languages</li>
-    <li>n/a</li>
-    <li>n/a</li>
-   </ul>
-  </body>
- </div>
+  <div id="Want to be / do"> 
+   <body>
+    <h3>GOAL</h3>
+    <ul>
+     <li>Fullstack</li>
+     <li>Learn all major languages</li>
+     <li>n/a</li>
+     <li>n/a</li>
+    </ul>
+   </body>
+  </div>
+ <div id="language proficiency"
+      
+      </div>
  </html>
  
 //language proficiency
