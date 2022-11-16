@@ -1,6 +1,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=4500&pause=1000&width=435&lines=Wasssup+%E2%98%95)](https://git.io/typing-svg)
 
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title>GOAL</title>
+  </head>
+ <div id="Want to be / do"> 
+  <body>
+   <ul>
+    <li>Fullstack</li>
+    <li>Learn all major languages</li>
+    <li>n/a</li>
+    <li>n/a</li>
+   </ul>
+  </body>
+ </div>
+ </html>
+ 
 //language proficiency
 - Progression counter:
 - JavaScript 95%
