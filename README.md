@@ -22,9 +22,9 @@
    <body>
     <h3>language proficiency</h3>
     <ul>
-     <li>Javascript 95%</li>
-     <li>Python 80%</li>
-     <li>HTML 20%</li>
+     <li>Javascript 100%</li>
+     <li>Python 95%</li>
+     <li>HTML 60%</li>
      <li>Java 0%</li>
      <li>ROR 0%</li> //ruby on rails
      <li>SQL 0%</li>
