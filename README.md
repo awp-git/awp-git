@@ -47,7 +47,7 @@
      <li>Flask 0%</li>
      <li>AJAX 0%</li>
      <li>NPM 0%</li>
-     <li>VSC 30%</li> //visual studio code
+     <li>VSC 80%</li> //visual studio code
      <li>Git 0%</li>
     </ul>
    </body>
