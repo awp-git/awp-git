@@ -11,9 +11,9 @@
     <ol>
      <li>learn all major languages</li>
      <li>learn all major applications</li>
+     <li>be fullstack</li>
      <li>make portfolio site</li>
      <li>do a couple things</li>
-     <li>be fullstack</li>
      <li>get hired</li>
     </ol>
    </body>
