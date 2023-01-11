@@ -2,9 +2,6 @@
 
 <!DOCTYPE html>
  <html>
-  <div id="cool effect">
-   <body><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Izayoi+Monospaced&size=25&duration=3650&pause=1000&color=F71AE3&center=falsee&width=435&height=35&lines=Wasssssssssssssssssssuppp!!" alt="Typing SVG" /></a>    </body>
-  </div>
   <div id="Want to be / do"> 
    <body>
     <h3>goal</h3>
