@@ -27,8 +27,6 @@
      <li>HTML 90%</li>
      <li>Java 30%</li>
      <li>ROR 0%</li> //ruby on rails
-     <li>SQL 50%</li>
-     <li>MongoDB 90%</li>
      <li>CSS 80%</li>
      <li>C++ 0%</li>
      <li>C# 0%</li>
@@ -42,6 +40,8 @@
     <ul>
      <li>ReactJS 90%</li>
      <li>Node.js 85%</li>
+     <li>SQL 50%</li>
+     <li>MongoDB 90%</li>
      <li>Sanity 10%</li>
      <li>Github 80%</li>
      <li>jQuery 0%</li>
