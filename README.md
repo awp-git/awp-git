@@ -23,12 +23,13 @@
     <h3>language proficiency</h3>
     <ul>
      <li>Javascript 100%</li>
-     <li>Python 95%</li>
-     <li>HTML 60%</li>
-     <li>Java 0%</li>
+     <li>Python 100%</li>
+     <li>HTML 90%</li>
+     <li>Java 30%</li>
      <li>ROR 0%</li> //ruby on rails
-     <li>SQL 0%</li>
-     <li>CSS 10%</li>
+     <li>SQL 50%</li>
+     <li>MongoDB 90%</li>
+     <li>CSS 80%</li>
      <li>C++ 0%</li>
      <li>C# 0%</li>
      <li>C 0%</li>
@@ -39,16 +40,15 @@
    <body>
     <h3>app / db proficiency</h3>
     <ul>
-     <li>ReactJS 10%</li>
-     <li>Node.js 10%</li>
+     <li>ReactJS 90%</li>
+     <li>Node.js 85%</li>
      <li>Sanity 10%</li>
-     <li>Github 10%</li>
+     <li>Github 80%</li>
      <li>jQuery 0%</li>
      <li>Flask 0%</li>
      <li>AJAX 0%</li>
-     <li>NPM 0%</li>
      <li>VSC 80%</li> //visual studio code
-     <li>Git 0%</li>
+     <li>Git 40%</li>
     </ul>
    </body>
   </div>
